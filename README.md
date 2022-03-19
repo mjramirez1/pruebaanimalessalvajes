@@ -1,6 +1,9 @@
 # pruebaanimalessalvajes
-https://mjramirez1.github.io/pruebaanimalessalvajes/
-Prueba Módulo 3 - Animales Salvajes
+
+## Prueba Módulo 3 - Animales Salvajes
+
+[Pages Github](https://mjramirez1.github.io/pruebaanimalessalvajes/)
+
 - ES6
 - Utilización de extensión "Live Server"
 - Creación de clases de acuerdo al diagrama implementando herencias
