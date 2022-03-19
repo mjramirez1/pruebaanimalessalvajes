@@ -1,4 +1,4 @@
-import Animales from "./animales.js";
+import Animales from "./Animales.js";
 
 class Serpiente extends Animales {
     constructor(nombre, edad, img, comentarios, sonido){
