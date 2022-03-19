@@ -1,4 +1,3 @@
-import animal from "../getData.js";
 
 //creacion de super clase
 class Animales {
