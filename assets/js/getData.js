@@ -1,5 +1,5 @@
  
-    const url = 'https://mjramirez1.github.io/pruebaanimalessalvajes/animales.json'
+    const url = "https://mjramirez1.github.io/pruebaanimalessalvajes/animales.json"
     const getData = async () => {
         const res = await fetch(url)
         const data = await res.json()
